@@ -2,7 +2,7 @@
 
 Arquivos de especificação para os problemas 21.1 e 21.2 do livro do Bratko.
 
-## 🚀 Como Executar
+# Como Executar
 
 ### Exercício 21.1 (member/2)
 1. Carregue o interpretador junto com o arquivo do exercício:
